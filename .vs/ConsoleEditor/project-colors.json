@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0e6c7c2-f0a9-4233-8c2f-e0ce5e200dc6": {
+      "ProjectGuid": "c0e6c7c2-f0a9-4233-8c2f-e0ce5e200dc6",
+      "DisplayName": "ConsoleEditor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

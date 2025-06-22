@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleEditor": {
+      "commandName": "Project",
+      "commandLineArgs": "d:\\NetModel\\Release\\KMine64\\Menus\\649492c8-6840-4440-8981-6c21267a6360.xml d:\\NetModel\\Release\\KMine64\\Menus\\output.xml"
+    }
+  }
+}
